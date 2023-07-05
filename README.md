@@ -1,2 +1,2 @@
 # Excel_Files
-In this repository I upload excel files to automate human resources tasks. 
+¡Hola! He creado este repositorio para poder compartir mis archivos de Excel y utilizarlos para el día a día como reclutador IT. Posteriormente seguiré subiendo archivos xlsx. apto para todo público.
